@@ -18,3 +18,7 @@ reader = Eval_Reader("FSE100A_Sp18.xlsx")
 with the correct filename.  If you want to do a test, comment out the `reader.send_emails()` line before you execute.  A preview will be written to the test_out.txt file.  
 
 6. When you are ready to send emails, make sure your outlook is open and logged in, then run the script with the `reader.send_emails` line included.  
+
+
+Upcoming changes: 
+- Support for Gmail
